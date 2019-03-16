@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1273294,
+    "name": "Delhi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.216667,
+      "lat": 28.666668
+    }
+  },
+  {
+    "id": 1261186,
+    "name": "Guwahati",
+    "country": "IN",
+    "coord": {
+      "lon": 91.72361,
+      "lat": 26.201389
+    }
+  },
+  {
+    "id": 1256287,
+    "name": "Silchar",
+    "country": "IN",
+    "coord": {
+      "lon": 92.800003,
+      "lat": 24.816669
+    }
+  },
+  {
+    "id": 1275339,
+    "name": "Mumbai",
+    "country": "IN",
+    "coord": {
+      "lon": 72.847939,
+      "lat": 19.01441
+    }
+  },
+  {
+    "id": 1260086,
+    "name": "Patna",
+    "country": "IN",
+    "coord": {
+      "lon": 85.116669,
+      "lat": 25.6
+    }
+  },
+   {
+    "id": 1275004,
+    "name": "Kolkata",
+    "country": "IN",
+    "coord": {
+      "lon": 88.36972,
+      "lat": 22.569719
+    }
+  },
+  {
+    "id": 1277333,
+    "name": "Bangalore",
+    "country": "IN",
+    "coord": {
+      "lon": 77.603287,
+      "lat": 12.97623
+    }
+  },
+  {
+    "id": 1176734,
+    "name": "Hyderabad",
+    "country": "PK",
+    "coord": {
+      "lon": 68.373657,
+      "lat": 25.39242
+    }
+  },
+    {
+    "id": 1272508,
+    "name": "Dispur",
+    "country": "IN",
+    "coord": {
+      "lon": 91.788887,
+      "lat": 26.1425
+    }
+  },
+  {
+    "id": 1268820,
+    "name": "Jorhat",
+    "country": "IN",
+    "coord": {
+      "lon": 94.216667,
+      "lat": 26.75
+    }
+  },
+  {
+    "id": 1344377,
+    "name": "Haldia",
+    "country": "IN",
+    "coord": {
+      "lon": 88.109749,
+      "lat": 22.060459
+    }
+},
+{
+    "id": 6954929,
+    "name": "Noida",
+    "country": "IN",
+    "coord": {
+      "lon": 77.536011,
+      "lat": 28.496149
+    }
+  }
+]
